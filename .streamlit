@@ -1,0 +1,6 @@
+# .streamlit/secrets.toml
+# This file is for LOCAL development only.
+# On Streamlit Community Cloud, set secrets via the web dashboard (never commit this file).
+# Add this file to your .gitignore!
+
+ANTHROPIC_API_KEY = "sk-ant-your-key-here"
